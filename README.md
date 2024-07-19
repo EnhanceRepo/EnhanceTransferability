@@ -4,13 +4,12 @@ This repository contains experiments conducted in the submission "Enhancing Tran
 **Abstract:**
 
 # Requirements
-1. Python 3.6
-2. Tensorflow 2.2
-3. Keras 2.3.1
-4. skimage 0.17.2
-5. Torch 1.12.1
-6. Torchvision 0.13.1
-7. Scipy 1.2.1
+1. Python 3.9
+2. numpy 1.26.4
+3. tqdm 4.64.1
+4. Torch 1.12.1
+5. Torchvision 0.13.1
+6. Scipy 1.10.1
 
 # Demo
 For example, to run the resizing transformation on udacity datast with adversarial perturbations crafted on the model Dave2V1. The user can run:
