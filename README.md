@@ -19,5 +19,5 @@ python3 input_resizing_udacity.py --model 'dave2v1'
 ```
 
 Runtime results for Dave dataset:
-
+![alt text](https://github.com/EnhanceRepo/EnhanceTransferability/blob/main/Dave_runtime.png)
 
